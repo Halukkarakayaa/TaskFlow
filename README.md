@@ -68,6 +68,18 @@ No backend or external database is required.
 
 This project was developed to practice modern frontend development using React, JavaScript, CSS, and CRUD operations.
 
+## Live Demo
+
+You can try TaskFlow here:
+
+https://taskflow-kanban-hlk.netlify.app/
+
+## GitHub Repository
+
+Source code:
+
+https://github.com/Halukkarakayaa/TaskFlow
+
 ## Deployment
 
-The application is prepared for deployment using Netlify.
+TaskFlow is deployed on Netlify and automatically builds from the main branch of the GitHub repository.
